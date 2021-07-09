@@ -1,5 +1,5 @@
 # File System
-A group project that involved developing a file system in C based off of Linux's file management.
+A group project for Operating Systems Principles Fall 2020 that involved developing a file system in C based off of Linux's file management.
 
 ## Members
 Russell Azucenas - Project Lead  
